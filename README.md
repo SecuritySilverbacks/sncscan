@@ -44,7 +44,7 @@ sncscan --route-string /H/10.3.161.5/S/3299/H/10.3.161.3/S/3200 -p diag
 ```
 
 # Install
-Requirements: Currently the sncscan only works with the pysap libary from our fork. 
+Requirements: sncscan currently depends on the OWASP pysap repository.
 
 ```
 python3 -m pip install -r requirements.txt
